@@ -1,0 +1,8 @@
+This colour scheme is based on tictoc (a Textmate theme by @subblue I believe). It works nicely
+for me in day-to-day rails dev.
+
+Installation:
+Install in ~/.vim/colors, or ~\vimfiles\colors on Windows.
+
+Try it out with
+:colorscheme tictoc
